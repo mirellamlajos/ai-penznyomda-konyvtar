@@ -103,6 +103,7 @@ A lépéseket fejben végzi, és nem mutatja. Amit mutat: minden címsor mellett
 - **Versenytárs megnevezése és lehúzása** nélkül. Az összehasonlító reklámnak törvényi feltételei vannak; "a drogériás fürdetők" általánosan rendben van, egy márka lejáratása nem.
 - **Pénz, bevétel, eredmény:** lehetőség és módszer, nem ígéret.
 - **Magyar, tegező, a vevő szavaival.** A hirdetés-nyelv ("prémium", "forradalmi", "fedezd fel") tiltólistás, hacsak a vevőid nem így beszélnek.
+- **Nincs tömör bekezdés az elsődleges szövegben.** A Meta-hirdetés elsődleges szövegében minden mondat külön sorba kerül, a mondatok között egy üres sor.
 
 ## 9. Ellenőrzőlista, mielőtt egy címsor kimegy
 

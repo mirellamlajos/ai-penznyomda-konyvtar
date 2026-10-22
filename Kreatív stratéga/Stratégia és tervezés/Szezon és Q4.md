@@ -1,5 +1,5 @@
 ---
-summary: "Szezon a hirdetésben: nem csak az akciós csúcs, hanem a vevő, a szög, a helyzet és a termék eltolódása; a tartós nyertesek maradnak, a szezonális rájuk rétegződik; melyik szezon számít tényleg. Aztán az ajándékszezon és a negyedik negyedév: a vevő nem a használó, mélység a szélesség helyett, az ajándékozási út, a reakció mint kifizetés, az átírási létra, a szezon előtti hónapok olvasata, egy szakasz-modell, és az ajánlat őszintesége. Az AI Pénznyomda Kreatív stratéga csomag része."
+summary: "Szezon a hirdetésben: a csúcs mellett a vevő, a szög, a helyzet és a termék is eltolódik; a tartós nyertesek maradnak, a szezonális rájuk rétegződik; melyik szezon számít tényleg. Aztán az ajándékszezon és a negyedik negyedév: a vevő nem a használó, mélység a szélesség helyett, az ajándékozási út, a reakció mint kifizetés, az átírási létra, a szezon előtti hónapok olvasata, egy szakasz-modell, és az ajánlat őszintesége. Az AI Pénznyomda Kreatív stratéga csomag része."
 source: "Saját változat. A módszer alapja az amerikai teljesítmény-marketing legjobbjainak anyaga a szezonalitásról és az ajándékozásról (az utóbbi egy 2026-os operátori beszélgetésből), egybeírva, a mi szavainkkal, magyar alkalmakkal és példával. Részletes forráslista a doksi végén."
 version: 2026-10-22
 language: hu

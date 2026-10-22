@@ -94,7 +94,15 @@ Ez a rész ugyanolyan fontos, mint a lista.
 Találatok: "fedezd fel" (szókincs), "gondosan válogatott" (textúra), "amely" (túl szabályos), "biztosítva" (lebegő farok), "nem csak..., hanem" (3-as család), "a szülők rajonganak" (homályos hivatkozás), "ne várj tovább, rendeld meg még ma" (steril felhívás). Hét találat négy mondatban: ujjlenyomat.
 
 **Utána** (a Bori Szappan hangján, a vevők szavaival):
-"Négy összetevő: kecsketej, olívaolaj, sheavaj, kókuszolaj. Nincs benne illat, nincs illóolaj. [VALÓS VEVŐI IDÉZET: egy anyuka saját mondata arról, mi változott fürdetés után.] 2490 forint, egy-két nap alatt ott van a csomagautomatában. Ha nem jön be, visszaküldöd."
+> Négy összetevő: kecsketej, olívaolaj, sheavaj, kókuszolaj.
+>
+> Nincs benne illat, nincs illóolaj.
+>
+> [VALÓS VEVŐI IDÉZET: egy anyuka saját mondata arról, mi változott fürdetés után.]
+>
+> 2490 forint, egy-két nap alatt ott van a csomagautomatában.
+>
+> Ha nem jön be, visszaküldöd.
 
 ## 6. Ellenőrzőlista, mielőtt egy szöveg kimegy
 
