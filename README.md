@@ -8,11 +8,17 @@ Kész anyagok az AI Pénznyomda tagjainak: módszertár, és később skillek é
 
 ## Hogyan használd
 
-1. Töltsd le vagy klónozd ezt a tárat.
-2. Másold a `Kreatív stratéga` mappát a boltod agyának gyökerébe (ahol a `CLAUDE.md` van).
-3. Írd be a `CLAUDE.md` fájlodba: `Hirdetési és kreatív munkához olvasd el a "Kreatív stratéga/Kezdd itt.md" fájlt, és töltsd be azt a doksit, amit a feladathoz ajánl.`
+1. Töltsd le ezt a tárat: a zöld **Code** gomb, aztán **Download ZIP**.
+2. Tedd a `Kreatív stratéga` mappát a boltod agyának mappájába.
+3. Ne csak másold be. Kérd meg a Claude-ot, hogy építse be az agyadba a márkádhoz igazítva. Ezt a promptot másold be:
 
-A következő hirdetés-kérésnél a Claude-od már innen dolgozik. A részletek és a szabályok, amik minden doksira érvényesek, a `Kezdd itt.md` fájlban.
+```
+Betettem az agyam mappájába a Kreatív stratéga mappát az AI Pénznyomda könyvtárából. Ez egy kreatív stratéga tudása: hookok, hirdetésszövegek, statikus és videós hirdetések, tesztelés. Ne csak másold be. Olvasd el, és építsd be az agyamba úgy, hogy a márkámhoz illeszkedjen: tedd oda, ahová illik, kösd össze azzal, amit már tudsz a vásárlóimról és a márkámról, és ha valami nem illik hozzánk, vagy ellentmond a szabályaimnak, jelezd, és kérdezz meg. Ha áthelyezel egy doksit, javítsd a hivatkozásokat is. A végén írd be a CLAUDE.md-be, mikor használja ezt a tudást, és mondd el röviden, mit hová tettél és miért.
+```
+
+4. Nézd át, mit hová tett, és válaszolj a kérdéseire.
+
+A következő hirdetés-kérésnél a Claude-od már ebből dolgozik, a te márkádra szabva. A szabályok, amik minden doksira érvényesek, a `Kezdd itt.md` fájlban vannak.
 
 ## Honnan jön
 

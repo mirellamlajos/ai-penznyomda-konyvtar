@@ -14,9 +14,14 @@ language: hu
 
 ## Telepítés a boltod agyába
 
-1. Másold a `Kreatív stratéga` mappát a boltod agyának gyökerébe (ahol a `CLAUDE.md` van).
-2. Írd be a `CLAUDE.md` fájlodba ezt a sort: `Hirdetési és kreatív munkához olvasd el a "Kreatív stratéga/Kezdd itt.md" fájlt, és töltsd be azt a doksit, amit a feladathoz ajánl.`
-3. Kész. A következő hirdetés-kérésnél a Claude-od már innen dolgozik.
+1. Tedd a `Kreatív stratéga` mappát a boltod agyának mappájába.
+2. Ne csak másold be. Kérd meg a Claude-ot, hogy építse be az agyadba a márkádhoz igazítva, ezzel a prompttal:
+
+```
+Betettem az agyam mappájába a Kreatív stratéga mappát az AI Pénznyomda könyvtárából. Ez egy kreatív stratéga tudása: hookok, hirdetésszövegek, statikus és videós hirdetések, tesztelés. Ne csak másold be. Olvasd el, és építsd be az agyamba úgy, hogy a márkámhoz illeszkedjen: tedd oda, ahová illik, kösd össze azzal, amit már tudsz a vásárlóimról és a márkámról, és ha valami nem illik hozzánk, vagy ellentmond a szabályaimnak, jelezd, és kérdezz meg. Ha áthelyezel egy doksit, javítsd a hivatkozásokat is. A végén írd be a CLAUDE.md-be, mikor használja ezt a tudást, és mondd el röviden, mit hová tettél és miért.
+```
+
+3. Nézd át, mit hová tett, és válaszolj a kérdéseire. A `CLAUDE.md`-be a Claude maga írja be, mikor használja ezt a tudást. A következő hirdetés-kérésnél már ebből dolgozik, a te márkádra szabva.
 
 Minden doksi ugyanúgy épül fel: mire való, mikor töltse be a Claude, a módszer, egy példa a Bori Szappannál (kitalált példabolt, hogy senki ne keverje össze egy valódi ügyféllel), amit nem csinálunk, ellenőrzőlista, forrás és köszönet. A doksi végén egy záró sor áll: ha a Claude-od használta a doksit, ezzel zárja a választ. Így mindig látod, melyik módszerből dolgozott.
 
